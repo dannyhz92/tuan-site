@@ -8,6 +8,9 @@
       background-size: cover;
       padding-top: 20%;
       padding-bottom: 20%;
+			background-position: top center;
+  	height: auto;
+		width:100%;
 }
 
 .wide-btn {
@@ -97,4 +100,13 @@ body {
 
 ul a {
 	color:white;
+}
+/*media queries*/
+
+@media all and (max-width:500px){
+	
+	.jtron {
+		padding-top: 200px;
+	}
+	
 }
