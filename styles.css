@@ -22,6 +22,15 @@
       background-size: cover;
 }
 
+.jtron2 {
+      background-image:url("img/electric11.jpg");
+      background-size: cover;
+			width:100%;
+			margin-top:-100px;
+			padding-bottom:40%;
+			height: 300px;
+}
+
 .wide-btn {
 	width:100%;
 	margin-top:-54px;
@@ -62,6 +71,15 @@ div .boxtwo {
 
 		
 }
+
+.bottom-credits{
+	font-size:10px;
+}
+
+.page-footer {
+	
+}
+
 /*navbar stuff*/
 
 
@@ -118,8 +136,8 @@ ul a {
 }
 
 form {
-	border-bottom: 5px solid #428bca;
-	border-top: 5px solid #428bca;
+	border-bottom: 5px solid #5bc0de;
+	border-top: 5px solid #5bc0de;
 	margin-top: 50px;
 	margin-bottom: 50px;
 	padding-top: 50px;
@@ -130,7 +148,6 @@ form {
 
 footer a {
 		color:white;
-		font-size: 10px;
 }
 
 
